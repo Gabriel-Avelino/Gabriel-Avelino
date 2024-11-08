@@ -37,4 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Certifique-se de que o nome do secret seja consistente
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Certifique-se de que o nome do secret seja consistente
