@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Gabriel-Avelino
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: svg-only/dist/github-contribution-grid-snake.svg
 
       - uses: Gabriel-Avelino/ghaction-github-pages@dev
         with:
