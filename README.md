@@ -10,6 +10,7 @@
 - 📫 Como entrar em contato comigo: ...
 -->
 - 😄 Pronomes: ele/dele
+  
 - ⚡ Curiosidade: Aprender Java
 ## Estou aprendendo
 
