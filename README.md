@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel Avelino and my nickname is "Gabriel-Avelino"!
+# 👋 Olá! Bem-vindo ao meu perfil do Github.
+## Meu nome é Gabriel Avelino e meu nickname é "Gabriel-Avelino"!
 
 - 🔭 Atualmente estou trabalhando na criação de sites
 <!--
