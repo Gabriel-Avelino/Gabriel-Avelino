@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na criação de sites
 
-- 🌱 Atualmente estou aprendendo: C
+- 🌱 Atualmente estou aprendendo: Angular
 <!--
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
